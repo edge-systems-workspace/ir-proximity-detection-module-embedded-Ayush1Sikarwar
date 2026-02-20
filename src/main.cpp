@@ -10,6 +10,7 @@
  * and detects obstacle presence.
  */
 
+
 int ir_pin = 8;
 int led_pin = 13;
 
